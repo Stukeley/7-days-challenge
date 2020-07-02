@@ -1,0 +1,7 @@
+E:\Programowanie\Stukeley\7-days-challenge\Day1\Brainfuck_Compiler\bin\Debug\Brainfuck_Compiler.exe.config
+E:\Programowanie\Stukeley\7-days-challenge\Day1\Brainfuck_Compiler\bin\Debug\Brainfuck_Compiler.exe
+E:\Programowanie\Stukeley\7-days-challenge\Day1\Brainfuck_Compiler\bin\Debug\Brainfuck_Compiler.pdb
+E:\Programowanie\Stukeley\7-days-challenge\Day1\Brainfuck_Compiler\obj\Debug\Brainfuck_Compiler.csprojAssemblyReference.cache
+E:\Programowanie\Stukeley\7-days-challenge\Day1\Brainfuck_Compiler\obj\Debug\Brainfuck_Compiler.csproj.CoreCompileInputs.cache
+E:\Programowanie\Stukeley\7-days-challenge\Day1\Brainfuck_Compiler\obj\Debug\Brainfuck_Compiler.exe
+E:\Programowanie\Stukeley\7-days-challenge\Day1\Brainfuck_Compiler\obj\Debug\Brainfuck_Compiler.pdb
