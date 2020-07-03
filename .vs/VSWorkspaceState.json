@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Day1",
+    "\\Day1\\Brainfuck_Compiler"
   ],
   "PreviewInSolutionExplorer": false
 }

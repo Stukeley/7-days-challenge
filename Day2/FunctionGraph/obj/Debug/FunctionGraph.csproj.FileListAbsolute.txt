@@ -1,0 +1,15 @@
+E:\Programowanie\Stukeley\7-days-challenge\Day2\FunctionGraph\bin\Debug\FunctionGraph.exe.config
+E:\Programowanie\Stukeley\7-days-challenge\Day2\FunctionGraph\bin\Debug\FunctionGraph.exe
+E:\Programowanie\Stukeley\7-days-challenge\Day2\FunctionGraph\bin\Debug\FunctionGraph.pdb
+E:\Programowanie\Stukeley\7-days-challenge\Day2\FunctionGraph\obj\Debug\FunctionGraph.csprojAssemblyReference.cache
+E:\Programowanie\Stukeley\7-days-challenge\Day2\FunctionGraph\obj\Debug\MainWindow.g.cs
+E:\Programowanie\Stukeley\7-days-challenge\Day2\FunctionGraph\obj\Debug\App.g.cs
+E:\Programowanie\Stukeley\7-days-challenge\Day2\FunctionGraph\obj\Debug\FunctionGraph_MarkupCompile.cache
+E:\Programowanie\Stukeley\7-days-challenge\Day2\FunctionGraph\obj\Debug\FunctionGraph_MarkupCompile.lref
+E:\Programowanie\Stukeley\7-days-challenge\Day2\FunctionGraph\obj\Debug\MainWindow.baml
+E:\Programowanie\Stukeley\7-days-challenge\Day2\FunctionGraph\obj\Debug\FunctionGraph.g.resources
+E:\Programowanie\Stukeley\7-days-challenge\Day2\FunctionGraph\obj\Debug\FunctionGraph.Properties.Resources.resources
+E:\Programowanie\Stukeley\7-days-challenge\Day2\FunctionGraph\obj\Debug\FunctionGraph.csproj.GenerateResource.cache
+E:\Programowanie\Stukeley\7-days-challenge\Day2\FunctionGraph\obj\Debug\FunctionGraph.csproj.CoreCompileInputs.cache
+E:\Programowanie\Stukeley\7-days-challenge\Day2\FunctionGraph\obj\Debug\FunctionGraph.exe
+E:\Programowanie\Stukeley\7-days-challenge\Day2\FunctionGraph\obj\Debug\FunctionGraph.pdb
