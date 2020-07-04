@@ -1,0 +1,7 @@
+E:\Programowanie\Stukeley\7-days-challenge\Day3\Sorting_Algorithms_Comparison\bin\Debug\Sorting_Algorithms_Comparison.exe.config
+E:\Programowanie\Stukeley\7-days-challenge\Day3\Sorting_Algorithms_Comparison\bin\Debug\Sorting_Algorithms_Comparison.exe
+E:\Programowanie\Stukeley\7-days-challenge\Day3\Sorting_Algorithms_Comparison\bin\Debug\Sorting_Algorithms_Comparison.pdb
+E:\Programowanie\Stukeley\7-days-challenge\Day3\Sorting_Algorithms_Comparison\obj\Debug\Sorting_Algorithms_Comparison.csprojAssemblyReference.cache
+E:\Programowanie\Stukeley\7-days-challenge\Day3\Sorting_Algorithms_Comparison\obj\Debug\Sorting_Algorithms_Comparison.csproj.CoreCompileInputs.cache
+E:\Programowanie\Stukeley\7-days-challenge\Day3\Sorting_Algorithms_Comparison\obj\Debug\Sorting_Algorithms_Comparison.exe
+E:\Programowanie\Stukeley\7-days-challenge\Day3\Sorting_Algorithms_Comparison\obj\Debug\Sorting_Algorithms_Comparison.pdb
