@@ -7,4 +7,6 @@ This is a repository I made just for fun. Here I will make one app a day for the
 ## Application list
 
 1. [Console] Brainfuck Compiler ✓
-2. [WPF] Function Graph App
+2. [WPF] Function Graph App ✓
+3. [Console] Sorting Algorithms Comparison ✓
+4. [Console & EF] Banking Application ✓
