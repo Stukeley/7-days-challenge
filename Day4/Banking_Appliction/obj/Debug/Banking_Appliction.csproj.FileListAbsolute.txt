@@ -1,0 +1,12 @@
+E:\Programowanie\Stukeley\7-days-challenge\Day4\Banking_Appliction\bin\Debug\Banking_Appliction.exe.config
+E:\Programowanie\Stukeley\7-days-challenge\Day4\Banking_Appliction\bin\Debug\Banking_Appliction.exe
+E:\Programowanie\Stukeley\7-days-challenge\Day4\Banking_Appliction\bin\Debug\Banking_Appliction.pdb
+E:\Programowanie\Stukeley\7-days-challenge\Day4\Banking_Appliction\bin\Debug\EntityFramework.dll
+E:\Programowanie\Stukeley\7-days-challenge\Day4\Banking_Appliction\bin\Debug\EntityFramework.SqlServer.dll
+E:\Programowanie\Stukeley\7-days-challenge\Day4\Banking_Appliction\bin\Debug\EntityFramework.xml
+E:\Programowanie\Stukeley\7-days-challenge\Day4\Banking_Appliction\bin\Debug\EntityFramework.SqlServer.xml
+E:\Programowanie\Stukeley\7-days-challenge\Day4\Banking_Appliction\obj\Debug\Banking_Appliction.csprojAssemblyReference.cache
+E:\Programowanie\Stukeley\7-days-challenge\Day4\Banking_Appliction\obj\Debug\Banking_Appliction.csproj.CoreCompileInputs.cache
+E:\Programowanie\Stukeley\7-days-challenge\Day4\Banking_Appliction\obj\Debug\Banking_Appliction.csproj.CopyComplete
+E:\Programowanie\Stukeley\7-days-challenge\Day4\Banking_Appliction\obj\Debug\Banking_Appliction.exe
+E:\Programowanie\Stukeley\7-days-challenge\Day4\Banking_Appliction\obj\Debug\Banking_Appliction.pdb
