@@ -1,0 +1,10 @@
+E:\Programowanie\Stukeley\7-days-challenge\Day5\Async_PI_Approximation\bin\Debug\Async_PI_Approximation.exe.config
+E:\Programowanie\Stukeley\7-days-challenge\Day5\Async_PI_Approximation\bin\Debug\Async_PI_Approximation.exe
+E:\Programowanie\Stukeley\7-days-challenge\Day5\Async_PI_Approximation\bin\Debug\Async_PI_Approximation.pdb
+E:\Programowanie\Stukeley\7-days-challenge\Day5\Async_PI_Approximation\obj\Debug\Async_PI_Approximation.csprojAssemblyReference.cache
+E:\Programowanie\Stukeley\7-days-challenge\Day5\Async_PI_Approximation\obj\Debug\Async_PI_Approximation.MainForm.resources
+E:\Programowanie\Stukeley\7-days-challenge\Day5\Async_PI_Approximation\obj\Debug\Async_PI_Approximation.Properties.Resources.resources
+E:\Programowanie\Stukeley\7-days-challenge\Day5\Async_PI_Approximation\obj\Debug\Async_PI_Approximation.csproj.GenerateResource.cache
+E:\Programowanie\Stukeley\7-days-challenge\Day5\Async_PI_Approximation\obj\Debug\Async_PI_Approximation.csproj.CoreCompileInputs.cache
+E:\Programowanie\Stukeley\7-days-challenge\Day5\Async_PI_Approximation\obj\Debug\Async_PI_Approximation.exe
+E:\Programowanie\Stukeley\7-days-challenge\Day5\Async_PI_Approximation\obj\Debug\Async_PI_Approximation.pdb
