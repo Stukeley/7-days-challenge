@@ -10,6 +10,6 @@ This is a repository I made just for fun. Here I will make one app a day for the
 2. [WPF] Function Graph App ✓
 3. [Console] Sorting Algorithms Comparison ✓
 4. [Console & EF] Banking Application ✓
-5. ? - Something Asynchronous for sure
+5. [WinForms & Async] PI Approximation using Monte Carlo
 6. ? - ?
-7. [WinForms] Chess Game
+7. [UWP] Chess Game
